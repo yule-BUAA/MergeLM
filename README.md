@@ -35,7 +35,9 @@ We conduct experiments on both encoder- and decoder-based LMs.
 We evaluate three tasks on five datasets: AlpacaEval (instruction-following), GSM8K and MATH (mathematical reasoning), and HumanEval and MBPP (code-generating).
 
 Note that we provide GSM8K, MATH, and MBPP datasets in ```math_code_data/``` folder, which are obtained from [WizardLM repository](https://github.com/nlpxucan/WizardLM). 
-Other datasets can be automatically downloaded by our codes.
+Other datasets can be automatically downloaded by our codes. For language models, you can download them either manually or by our codes.   
+
+You can also modify the ```cache_dir``` in the ```utils/load_config.py``` file to specify your own path to save datasets and models.
 
 ## Model Merging Methods
 
