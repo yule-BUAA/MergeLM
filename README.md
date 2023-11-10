@@ -55,7 +55,7 @@ We also combine the proposed [DARE](https://arxiv.org/abs/2311.03099) with the a
 [PyTorch 2.0.1](https://pytorch.org/),
 [transformers 4.33.1](https://huggingface.co/docs/transformers/index),
 [datasets 2.13.1](https://huggingface.co/docs/datasets/index),
-[vllm 0.11.4](https://github.com/vllm-project/vllm),
+[vllm 0.1.4](https://github.com/vllm-project/vllm),
 [human_eval](https://github.com/openai/human-eval),
 [numpy](https://github.com/numpy/numpy), and
 [tqdm](https://github.com/tqdm/tqdm).
