@@ -62,7 +62,7 @@ We also combine the proposed [DARE](https://arxiv.org/abs/2311.03099) with the a
 
 
 ## Executing Scripts for Encoder-based LMs
-For encoder-based LMs, we first fine-tune them on the GLUE benchmark (support both single-task and multi-tasl settings), 
+For encoder-based LMs, we first fine-tune them on the GLUE benchmark (support both single-task and multi-task settings), 
 and then inference with them. We also provide scripts to merge encoder-based LMs with five model merging methods. 
 
 ### Scripts for Fine-Tuning on GLUE
