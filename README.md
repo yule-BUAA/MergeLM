@@ -8,6 +8,7 @@ This repository is built for the paper [Language Models are Super Mario: Absorbi
 🔔 If you have any questions or suggestions, please feel free to let us know. 
 You can directly email [Le Yu](https://yule-buaa.github.io/) using the email address yule@buaa.edu.cn or post an issue on this repository.
 
+
 ## Overview
 
 In this work, we uncover that Language Models (LMs), either encoder- or decoder-based, can **obtain new capabilities by assimilating the parameters of homologous models without the need for retraining or GPUs**. 
@@ -31,13 +32,14 @@ By conducting extensive experiments, we find that:
 
 We conduct experiments on both encoder- and decoder-based LMs.
 * For encoder-based LMs, we choose bert-base-uncased and roberta-base as pre-trained backbones. Eight datasets from the GLUE benchmark are used, including CoLA, SST-2, MRPC, STS-B, QQP, MNLI, QNLI, and RTE.
-* For decoder-based LMs, we choose WizardLM, WizardMath, WizardCoder-Python, and Code Alpaca as pre-trained backbones. 
+* For decoder-based LMs, we choose LLaMA, Llama 2, and Code Llama as pre-trained backbones. WizardLM, WizardMath, WizardCoder-Python, and Code Alpaca are used as fine-tuned models. 
 We evaluate three tasks on five datasets: AlpacaEval (instruction-following), GSM8K and MATH (mathematical reasoning), and HumanEval and MBPP (code-generating).
 
 Note that we provide GSM8K, MATH, and MBPP datasets in ```math_code_data/``` folder, which are obtained from [WizardLM repository](https://github.com/nlpxucan/WizardLM). 
 Other datasets can be automatically downloaded by our codes. For language models, you can download them either manually or by our codes.   
 
 You can also modify the ```cache_dir``` in the ```utils/load_config.py``` file to specify your own path to save datasets and models.
+
 
 ## Model Merging Methods
 
@@ -186,6 +188,7 @@ Then, if you want to evaluate the generated *WizardCoder-Python-13B-V1.0_inferen
 accelerate launch ./bigcode-evaluation-harness/main.py --tasks mbpp --allow_code_execution --load_generations_path ./save_gen_codes_results/mbpp/WizardCoder-Python-13B-V1.0_inference_mask_0.2_rescale_True.jsonl
 ```
 
+
 ## Acknowledgments
 
 We are grateful to the authors of [WizardLM](https://github.com/nlpxucan/WizardLM) for making their project codes publicly available.
@@ -202,3 +205,8 @@ Please consider citing our paper when using this project.
   year={2023}
 }
 ```
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yule-BUAA/MergeLM&type=Timeline)](https://star-history.com/#yule-BUAA/MergeLM&Timeline)
