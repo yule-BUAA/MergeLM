@@ -10,13 +10,13 @@ You can directly email [Le Yu](https://yule-buaa.github.io/) using the email add
 
 
 ## 💥 News 💥
-- 🔥🔥🔥[2023/11/24] We appreciate [uukuguy](https://github.com/uukuguy) for integrating our work into the [Multi-LoRAs Project](https://pypi.org/project/multi-loras/0.2.0)!
-- 🔥🔥🔥[2023/11/23] Special thanks to [WizardLM](https://twitter.com/WizardLM_AI) for sharing our work on [Twitter](https://twitter.com/WizardLM_AI/status/1727672799391842468)!
-- 🔥🔥🔥[2023/11/22] We appreciate [PaperWeekly](http://www.paperweekly.info) for sharing our work on [Zhihu](https://zhuanlan.zhihu.com/p/668152236)! 
-- 🔥🔥🔥[2023/11/21] We appreciate [PaperWeekly](http://www.paperweekly.info) for sharing our work on [WeChat](https://mp.weixin.qq.com/s/YiqWovBUXIbzmUbL6uT-8g)! 
-- 🔥🔥🔥[2023/11/11] Special thanks to [夕小瑶](https://xixiaoyao.github.io/about/) for sharing our work on [WeChat](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247565881&idx=2&sn=57985427fdb6751d617df801ca7fd810) and [Zhihu](https://zhuanlan.zhihu.com/p/666363702)!
-- 🔥🔥🔥[2023/11/6] Our paper is available on [Papers With Code](https://paperswithcode.com/paper/language-models-are-super-mario-absorbing).
-- 🔥🔥🔥[2023/11/6] Our paper is available on [arXiv](https://arxiv.org/abs/2311.03099).
+- 🔥🔥🔥[**November 24, 2023**] We appreciate [uukuguy](https://github.com/uukuguy) for integrating our work into the [Multi-LoRAs Project](https://pypi.org/project/multi-loras/0.2.0)!
+- 🔥🔥🔥[**November 23, 2023**] Special thanks to [WizardLM](https://twitter.com/WizardLM_AI) for sharing our work on [Twitter](https://twitter.com/WizardLM_AI/status/1727672799391842468)!
+- 🔥🔥🔥[**November 22, 2023**] We appreciate [PaperWeekly](http://www.paperweekly.info) for sharing our work on [Zhihu](https://zhuanlan.zhihu.com/p/668152236)! 
+- 🔥🔥🔥[**November 21, 2023**] We appreciate [PaperWeekly](http://www.paperweekly.info) for sharing our work on [WeChat](https://mp.weixin.qq.com/s/YiqWovBUXIbzmUbL6uT-8g)! 
+- 🔥🔥🔥[**November 11, 2023**] Special thanks to [夕小瑶](https://xixiaoyao.github.io/about/) for sharing our work on [WeChat](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247565881&idx=2&sn=57985427fdb6751d617df801ca7fd810) and [Zhihu](https://zhuanlan.zhihu.com/p/666363702)!
+- 🔥🔥🔥[**November 6, 2023**] Our paper is available on [Papers With Code](https://paperswithcode.com/paper/language-models-are-super-mario-absorbing).
+- 🔥🔥🔥[**November 6, 2023**] Our paper is available on [arXiv](https://arxiv.org/abs/2311.03099).
 
 ## Overview
 
