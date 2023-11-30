@@ -11,8 +11,9 @@ You can directly email [Le Yu](https://yule-buaa.github.io/) using the email add
 
 ## 💥 News 💥
 
-- 🔥🔥🔥[**November 29, 2023**] Special thanks to [martyn](https://github.com/martyn) for extending our work to [Stable Diffusion models](https://github.com/martyn/safetensors-merge-supermario)!
-- 🔥🔥🔥[**November 27, 2023**] We appreciate [brucethemoose](https://huggingface.co/brucethemoose) for applying our work on several models on Hugging Face ([model_1](https://huggingface.co/brucethemoose/Capybara-Tess12-Yi-34B-200K-DARE), [model_2](https://huggingface.co/brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties), and [model_3](https://huggingface.co/brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties-4bpw-exl2-fiction))!
+- 🔥🔥🔥[**November 29, 2023**] We appreciate [martyn](https://github.com/martyn) for extending our work to [Stable Diffusion models](https://github.com/martyn/safetensors-merge-supermario)!
+- 🔥🔥🔥[**November 27, 2023**] Special thanks to [brucethemoose](https://huggingface.co/brucethemoose) for applying our work on several models on Hugging Face ([model_1](https://huggingface.co/brucethemoose/Capybara-Tess12-Yi-34B-200K-DARE), [model_2](https://huggingface.co/brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties), [model_3](https://huggingface.co/brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties-4bpw-exl2-fiction), [model_4](https://huggingface.co/brucethemoose/CapyTessBorosYi-34B-200K-DARE-Ties-exl2-4bpw-fiction), and [model_5](https://huggingface.co/brucethemoose/CapyTessBorosYi-34B-200K-DARE-Ties))!
+- 🔥🔥🔥[**November 26, 2023**] We appreciate [cg123](https://github.com/cg123) for integrating our work into the [mergekit Project](https://github.com/cg123/mergekit/tree/dare)!
 - 🔥🔥🔥[**November 25, 2023**] Special thanks to [fly51fly](https://twitter.com/fly51fly) for sharing our work on [Twitter](https://twitter.com/fly51fly/status/1728159826742755588)!
 - 🔥🔥🔥[**November 24, 2023**] We appreciate [uukuguy](https://github.com/uukuguy) for integrating our work into the [Multi-LoRAs Project](https://pypi.org/project/multi-loras/0.2.0)!
 - 🔥🔥🔥[**November 23, 2023**] Special thanks to [WizardLM](https://twitter.com/WizardLM_AI) for sharing our work on [Twitter](https://twitter.com/WizardLM_AI/status/1727672799391842468)!

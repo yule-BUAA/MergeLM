@@ -92,8 +92,11 @@ if __name__ == "__main__":
             multi_train_datasets, multi_val_datasets, multi_test_datasets, datasets_num_labels = \
                 glue_data_loader.load_multitask_datasets(dataset_names=dataset_names, train_split_ratio_for_val=0.1, max_seq_length=128)
 
-            # base_model = AutoModel.from_pretrained(pretrained_model_name_or_path=args.language_model_name, cache_dir=cache_dir).to(args.device)
-            base_model = AutoModel.from_pretrained(pretrained_model_name_or_path=os.path.join(cache_dir, args.language_model_name)).to(args.device)
+            try:
+                base_model = AutoModel.from_pretrained(pretrained_model_name_or_path=os.path.join(cache_dir, args.language_model_name)).to(args.device)
+            except:
+                base_model = AutoModel.from_pretrained(pretrained_model_name_or_path=args.language_model_name, cache_dir=cache_dir).to(args.device)
+
             headers = nn.ModuleDict()
             for dataset_name, dataset_num_labels in zip(dataset_names, datasets_num_labels):
                 headers[dataset_name] = nn.Linear(in_features=base_model.config.hidden_size, out_features=dataset_num_labels)
