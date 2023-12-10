@@ -11,7 +11,8 @@ You can directly email [Le Yu](https://yule-buaa.github.io/) using the email add
 
 ## 💥 News 💥
 
-- 🔥🔥🔥[**December 4, 2023**] Special thanks to [Minhajul Hoque](https://medium.com/@minh.hoque) for sharing our work on [Medium](https://medium.com/@minh.hoque/paper-explained-language-models-are-super-mario-2ebce6c2cf35)!
+- 🔥🔥🔥[**December 4, 2023**] We appreciate [Minhajul Hoque](https://medium.com/@minh.hoque) for sharing our work on [Medium](https://medium.com/@minh.hoque/paper-explained-language-models-are-super-mario-2ebce6c2cf35)!
+- 🔥🔥🔥[**November 29, 2023**] Special thanks to [papersread.ai](https://papersread.ai/) for sharing [our work](https://papersread.ai/e/language-models-are-super-mario-absorbing-abilities-from-homologous-models-as-a-free-lunch/)!
 - 🔥🔥🔥[**November 29, 2023**] We appreciate [martyn](https://github.com/martyn) for extending our work to [Stable Diffusion models](https://github.com/martyn/safetensors-merge-supermario)!
 - 🔥🔥🔥[**November 27, 2023**] Special thanks to [brucethemoose](https://huggingface.co/brucethemoose) for applying our work on several models on Hugging Face ([model_1](https://huggingface.co/brucethemoose/Capybara-Tess12-Yi-34B-200K-DARE), [model_2](https://huggingface.co/brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties), [model_3](https://huggingface.co/brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties-4bpw-exl2-fiction), [model_4](https://huggingface.co/brucethemoose/CapyTessBorosYi-34B-200K-DARE-Ties-exl2-4bpw-fiction), and [model_5](https://huggingface.co/brucethemoose/CapyTessBorosYi-34B-200K-DARE-Ties))!
 - 🔥🔥🔥[**November 26, 2023**] We appreciate [cg123](https://github.com/cg123) for integrating our work into the [mergekit Project](https://github.com/cg123/mergekit/tree/dare)!
