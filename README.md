@@ -11,22 +11,20 @@ You can directly email [Le Yu](https://yule-buaa.github.io/) using the email add
 
 ## 💥 News 💥
 
+- 🔥🔥🔥[**May 2, 2024**] Our paper is accepted at ICML 2024! The camera ready version is coming soon.
 - 🔥🔥🔥[**February 9, 2024**] Special thanks to [Sourab Mangrulkar](https://github.com/pacman100) for integrating our work into the [huggingface/peft Project](https://github.com/huggingface/peft)!
-- 🔥🔥🔥[**January 28, 2024**] Our merged model [supermario_v2](https://huggingface.co/vanillaOVO/supermario_v2) ranks first among 7B models on the Open LLM Leaderboard! We also provide [supermario_v1](https://huggingface.co/vanillaOVO/supermario_v1), [supermario_v3](https://huggingface.co/vanillaOVO/supermario_v3), and [supermario_v4](https://huggingface.co/vanillaOVO/supermario_v4).   
+- 🔥🔥🔥[**January 28, 2024**] Our merged model [supermario_v2](https://huggingface.co/vanillaOVO/supermario_v2) ranks first among 7B models on the Open LLM Leaderboard!   
 - 🔥🔥🔥[**December 4, 2023**] We appreciate [Minhajul Hoque](https://medium.com/@minh.hoque) for sharing our work on [Medium](https://medium.com/@minh.hoque/paper-explained-language-models-are-super-mario-2ebce6c2cf35)!
 - 🔥🔥🔥[**November 29, 2023**] Special thanks to [papersread.ai](https://papersread.ai/) for sharing [our work](https://papersread.ai/e/language-models-are-super-mario-absorbing-abilities-from-homologous-models-as-a-free-lunch/)!
 - 🔥🔥🔥[**November 29, 2023**] We appreciate [martyn](https://github.com/martyn) for extending our work to [Stable Diffusion models](https://github.com/martyn/safetensors-merge-supermario)!
-- 🔥🔥🔥[**November 27, 2023**] Special thanks to [brucethemoose](https://huggingface.co/brucethemoose) for applying our work on several models on Hugging Face ([model_1](https://huggingface.co/brucethemoose/Capybara-Tess12-Yi-34B-200K-DARE), [model_2](https://huggingface.co/brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties), [model_3](https://huggingface.co/brucethemoose/Capybara-Tess-Yi-34B-200K-DARE-Ties-4bpw-exl2-fiction), [model_4](https://huggingface.co/brucethemoose/CapyTessBorosYi-34B-200K-DARE-Ties-exl2-4bpw-fiction), and [model_5](https://huggingface.co/brucethemoose/CapyTessBorosYi-34B-200K-DARE-Ties))!
+- 🔥🔥🔥[**November 27, 2023**] Special thanks to [brucethemoose](https://huggingface.co/brucethemoose) for applying our work on the [model](https://huggingface.co/brucethemoose/CapyTessBorosYi-34B-200K-DARE-Ties) on Hugging Face!
 - 🔥🔥🔥[**November 26, 2023**] We appreciate [cg123](https://github.com/cg123) for integrating our work into the [mergekit Project](https://github.com/arcee-ai/mergekit)!
 - 🔥🔥🔥[**November 25, 2023**] Special thanks to [fly51fly](https://twitter.com/fly51fly) for sharing our work on [Twitter](https://twitter.com/fly51fly/status/1728159826742755588)!
 - 🔥🔥🔥[**November 24, 2023**] We appreciate [uukuguy](https://github.com/uukuguy) for integrating our work into the [Multi-LoRAs Project](https://pypi.org/project/multi-loras/0.2.0)!
 - 🔥🔥🔥[**November 23, 2023**] Special thanks to [WizardLM](https://twitter.com/WizardLM_AI) for sharing our work on [Twitter](https://twitter.com/WizardLM_AI/status/1727672799391842468)!
-- 🔥🔥🔥[**November 22, 2023**] We appreciate [PaperWeekly](http://www.paperweekly.info) for sharing our work on [Zhihu](https://zhuanlan.zhihu.com/p/668152236)! 
-- 🔥🔥🔥[**November 21, 2023**] We appreciate [PaperWeekly](http://www.paperweekly.info) for sharing our work on [WeChat](https://mp.weixin.qq.com/s/YiqWovBUXIbzmUbL6uT-8g)! 
+- 🔥🔥🔥[**November 21, 2023**] We appreciate [PaperWeekly](http://www.paperweekly.info) for sharing our work on [WeChat](https://mp.weixin.qq.com/s/YiqWovBUXIbzmUbL6uT-8g) and [Zhihu](https://zhuanlan.zhihu.com/p/668152236)! 
 - 🔥🔥🔥[**November 11, 2023**] Special thanks to [夕小瑶](https://xixiaoyao.github.io/about/) for sharing our work on [WeChat](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ%3D%3D&mid=2247565881&idx=2&sn=57985427fdb6751d617df801ca7fd810) and [Zhihu](https://zhuanlan.zhihu.com/p/666363702)!
-- 🔥🔥🔥[**November 6, 2023**] Our paper is available on [Hugging Face](https://huggingface.co/papers/2311.03099).
-- 🔥🔥🔥[**November 6, 2023**] Our paper is available on [Papers With Code](https://paperswithcode.com/paper/language-models-are-super-mario-absorbing).
-- 🔥🔥🔥[**November 6, 2023**] Our paper is available on [arXiv](https://arxiv.org/abs/2311.03099).
+- 🔥🔥🔥[**November 6, 2023**] Our paper is available on [arXiv](https://arxiv.org/abs/2311.03099), [Papers With Code](https://paperswithcode.com/paper/language-models-are-super-mario-absorbing), and [Hugging Face](https://huggingface.co/papers/2311.03099).
 
 
 ## Overview
@@ -218,11 +216,12 @@ We are grateful to the authors of [WizardLM](https://github.com/nlpxucan/WizardL
 
 Please consider citing our paper when using this project.
 ```{bibtex}
-@article{yu2023language,
+@inproceedings{yu2024language,
   title={Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch},
   author={Yu, Le and Yu, Bowen and Yu, Haiyang and Huang, Fei and Li, Yongbin},
-  journal={arXiv preprint arXiv:2311.03099},
-  year={2023}
+  booktitle={International Conference on Machine Learning},
+  year={2024},
+  organization={PMLR}
 }
 ```
 
